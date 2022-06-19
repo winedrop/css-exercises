@@ -1,0 +1,20 @@
+
+div, p{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.odd{
+    background-color: #f86969 ;
+}
+.third{
+    font-size: 24px;
+}
+#second{
+    font-size: 36px;
+    color: blue;
+
+}
+#fourth{
+    font-size: 24px;
+    background-color: greenyellow;
+    font-weight: bold;
+}
